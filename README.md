@@ -14,3 +14,4 @@ Downloaded from dataset:
 - The below files will be created by us while making the project.
 
   https://github.com/tarushmihir002/Caption_generator-using-LSTM-and-CNN/blob/main/Model-of-Image-Caption-Generator-python-project.webp
+![image](https://github.com/tarushmihir002/Caption_generator-using-LSTM-and-CNN/assets/54832357/bf4ae15f-3ada-4f2a-9c74-cf78206e2074)
