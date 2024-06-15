@@ -3,3 +3,12 @@
 
 - CNN is used for extracting features from the image. We will use the pre-trained model Xception.
 - LSTM will use the information from CNN to help generate a description of the image.
+
+
+# Project File Structure
+
+Downloaded from dataset:
+
+- Flicker8k_Dataset – Dataset folder which contains 8091 images.
+- Flickr_8k_text – Dataset folder which contains text files and captions of images.
+- The below files will be created by us while making the project.
