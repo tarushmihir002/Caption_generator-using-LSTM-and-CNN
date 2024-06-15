@@ -12,3 +12,5 @@ Downloaded from dataset:
 - Flicker8k_Dataset – Dataset folder which contains 8091 images.
 - Flickr_8k_text – Dataset folder which contains text files and captions of images.
 - The below files will be created by us while making the project.
+
+  https://github.com/tarushmihir002/Caption_generator-using-LSTM-and-CNN/blob/main/Model-of-Image-Caption-Generator-python-project.webp
